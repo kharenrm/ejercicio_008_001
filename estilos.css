@@ -1,0 +1,33 @@
+.contenedor{
+	display: flex;
+}
+.divForm{
+	background-color: yellow;
+    width: 35%;
+    height: 400px;
+}
+
+.divAgenda{
+	background-color: green;
+	width: 65%;
+    height: 400px;
+}
+
+.formulario{
+    margin: 8px;
+}
+
+.formulario input{
+	display: block;
+	margin: 4px;
+    padding: 4px;
+    border-radius: 5px;
+    border-style: ridge;
+}
+
+.boton_accion{
+	padding: 8px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+}
